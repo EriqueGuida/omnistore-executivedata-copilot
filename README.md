@@ -1,6 +1,16 @@
 # ExecutiveData Copilot — OmniStore
 > *Um projeto de Engenharia de Sistemas e Dados focado no design e modelagem de uma solução Text-to-SQL para o setor de varejo/e-commerce.*
 
+<div align="center">
+
+[![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)](#)
+[![SENAI](https://img.shields.io/badge/Firjan_SENAI-T%C3%A9cnico_em_Dev_Sistemas-005CA9?style=for-the-badge)](#)
+[![SQL](https://img.shields.io/badge/SQL-Modelagem_Relacional-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-Prot%C3%B3tipo_UX%2FUI-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Prompt Engineering](https://img.shields.io/badge/IA-Prompt_Engineering-8A2BE2?style=for-the-badge)](#)
+
+</div>
+
 ## Sobre o Projeto
 
 O **ExecutiveData Copilot — OmniStore** é um projeto de portfólio voltado à **Engenharia de Requisitos, modelagem de sistemas e modelagem de dados** para uma solução de análise de informações corporativas.
